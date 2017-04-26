@@ -1,6 +1,6 @@
 # npmdoc-fine-uploader
 
-#### api documentation for  [fine-uploader (v5.14.2)](https://github.com/FineUploader/fine-uploader#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-fine-uploader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fine-uploader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fine-uploader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fine-uploader)
+#### basic api documentation for  [fine-uploader (v5.14.2)](https://github.com/FineUploader/fine-uploader#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-fine-uploader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-fine-uploader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-fine-uploader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-fine-uploader)
 
 #### Multiple file upload plugin with progress-bar, drag-and-drop, direct-to-S3 & Azure uploading, client-side image scaling, preview generation, form support, chunking, auto-resume, and tons of other features.
 
@@ -101,7 +101,8 @@
     },
     "title": "Fine Uploader",
     "types": "typescript/fine-uploader.d.ts",
-    "version": "5.14.2"
+    "version": "5.14.2",
+    "bin": {}
 }
 ```
 
